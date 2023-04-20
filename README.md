@@ -1,5 +1,5 @@
 <!-- Swift-Study-Networking -->
-# Swift-Doc-Networking
+# Swift-Study-Networking
 ###### Documentation / Foundation / URL Loading 
 
 <br/>
