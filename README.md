@@ -1,4 +1,4 @@
-<!-- Swift-Doc-Networking -->
+<!-- Swift-Study-Networking -->
 # Swift-Doc-Networking
 ###### Documentation / Foundation / URL Loading 
 
